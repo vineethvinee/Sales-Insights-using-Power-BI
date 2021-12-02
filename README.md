@@ -9,3 +9,7 @@ Whenever he wants to get insights into these regions he would call these people 
 The main thing here is that all the insights that they gave are verbal, so our main aim is to give him a powerful and interactive Dashboard with Atleq Database. 
 
 ------------------------------------------------------------------------------------------------------------
+
+Note:
+
+Import sql dump file into your Sql local machine then connect the Sql local machine to Power BI to get the Datasets for the analysis.
